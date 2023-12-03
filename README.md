@@ -8,7 +8,7 @@
 ## Download
 
 - **Source:** [DailyDialog Dataset](http://yanran.li/dailydialog.html)
-- **Download:** [DailyDialog.zip] (http://yanran.li/dailydialog.html)
+- **Download:** [DailyDialog.zip](http://yanran.li/dailydialog.html))
 - **Updated:** Nov 1, 2017
 
 ## Collection
